@@ -1,2 +1,1 @@
-# Quranhub
-A [project](https://livecodes.io/?x=https://github.com/turrtubersturrtub2312/quranhub/tree/gh-pages/src) created by [turrtubersturrtub2312](https://github.com/turrtubersturrtub2312) on [LiveCodes](https://livecodes.io).
+
